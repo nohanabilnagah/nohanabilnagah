@@ -2,7 +2,7 @@
 - 👀 I’m interested in Software_Engineering
 - 🌱 I’m currently learning Software_Testing, Test_Automation, Performance_Testing
 - 💞️ I’m looking to collaborate on anything related to Software_Engineering
-- 👀 I'm seeking a challenging and interesting position as a full time Test Automation Engineer
+- 👀 I'm seeking a challenging and interesting position as a full time Software Test Engineer or Test Automation Engineer
 - 📫 How to reach me ... (+201005113380), (noha.nabil83@gmail.com)
 
 <!---
