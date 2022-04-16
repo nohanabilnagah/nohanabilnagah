@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @noha-nabil-nagah
-- 👀 I’m interested in Software_Engineering
-- 🌱 I’m currently learning Software_Testing, Test_Automation, Performance_Testing
-- 💞️ I’m looking to collaborate on anything related to Software_Engineering
-- 👀 I'm seeking a challenging and interesting position as a full time Software Test Engineer or Test Automation Engineer
+- 👀 Skilled Software Testing Engineer, 
+- 🌱 with good Test Automation Skills, and familiar with Performance Testing tool (Jmeter).
+- 💞️ I’m also a Spanish Speaker.
+- 👀 I have Excellent presentation, communication, and management skills,
+      with very strong attention to small details to accurately identify all problems quickly and effectively.
 - 📫 How to reach me ... (+201005113380), (noha.nabil83@gmail.com)
 
 <!---
